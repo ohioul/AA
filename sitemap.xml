@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://aacmedinc.org/#/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/about"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/about"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/about"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/analytics</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/analytics"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/analytics"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/analytics"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/marketing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/marketing"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/marketing"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/marketing"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/accreditation</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/accreditation"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/accreditation"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/accreditation"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/ratings</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/ratings"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/ratings"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/ratings"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/awards</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/awards"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/awards"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/awards"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/education</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/education"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/education"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/education"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/research</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/research"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/research"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/research"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/diagnostics</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/diagnostics"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/diagnostics"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/diagnostics"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/publications</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/publications"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/publications"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/publications"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/council</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/council"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/council"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/council"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/contacts</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/contacts"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/contacts"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/contacts"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/price</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/price"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/price"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/price"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/registration</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/registration"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/registration"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/registration"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/associations</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/associations"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/associations"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/associations"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/healing-methods</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/healing-methods"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/healing-methods"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/healing-methods"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/public-offer</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/public-offer"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/public-offer"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/public-offer"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/privacy"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://aacmedinc.org/#/en/cookies</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aacmedinc.org/#/en/cookies"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aacmedinc.org/#/de/cookies"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aacmedinc.org/#/ru/cookies"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
