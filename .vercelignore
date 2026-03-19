@@ -1,0 +1,10 @@
+.env.local
+.git
+.gitignore
+*.md
+node_modules
+attached_assets
+github/workflows
+script
+shared/schema.ts
+drizzle.config.ts
